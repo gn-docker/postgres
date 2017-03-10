@@ -1,5 +1,5 @@
-POSTGRES_PASSWORD=
+POSTGRES_PASSWORD=secret
 PGDATA=/var/lib/postgresql/data/pgdata
-DB_USERNAME=gnuser
-DB_PASSWORD=gnpassword
+DB_USERNAME=usr
+DB_PASSWORD=secret
 DB_DATABASE=db
